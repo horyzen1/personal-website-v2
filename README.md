@@ -33,8 +33,7 @@ Welcome to the second iteration of my personal website. This project showcases a
 
 ## Screenshots
 
-![Screenshot of the website](![image](https://github.com/user-attachments/assets/050a05c7-6b7c-41c0-9deb-6a4c6dc7f065)
-)
+![Screenshot of the website](/images/website-screenshot.png)
 
 ## Contact
 
