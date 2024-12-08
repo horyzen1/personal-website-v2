@@ -23,17 +23,18 @@ Welcome to the second iteration of my personal website. This project showcases a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/horyzen1/personal-website-v2.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd personal-website-v2
     ```
 3. Open `index.html` in your web browser to view the website.
 
 ## Screenshots
 
-![Screenshot of the website](images/screenshot.png)
+![Screenshot of the website](![image](https://github.com/user-attachments/assets/050a05c7-6b7c-41c0-9deb-6a4c6dc7f065)
+)
 
 ## Contact
 
